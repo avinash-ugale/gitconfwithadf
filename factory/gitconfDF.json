@@ -1,0 +1,15 @@
+{
+	"name": "gitconfDF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ff070c1c-b7f0-4410-be9d-18c87b43c276",
+		"tenantId": "6ae0bced-43ec-46c4-8883-9d56e094c810"
+	}
+}
